@@ -1,0 +1,171 @@
+*{
+    border:0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin:0;
+    overflow-x: hidden;
+}
+
+.frame-1{
+    position:absolute;
+}
+
+.nav{
+    position:relative;
+    color:white;
+    display:flex;
+    justify-content: space-between;
+}
+
+.header{
+    background-image: url('/img/img-1.svg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100vw;
+    height:100vh;
+    position:relative;
+}
+
+.sec-2{
+    background-color:blue;
+    width:100vw;
+    height:100vh;
+    position:relative;
+}
+
+.logo{
+    margin: 35px;
+}
+
+.nav ul{
+    padding:5px;
+    margin:5px;
+
+}
+.nav li{
+    padding:13px;
+    float:left;
+    margin:10px;
+    list-style:none;
+}
+
+.txt-1{
+    display: flex;
+width: 513px;
+height: 66px;
+flex-direction: column;
+bottom:-37%;
+left:8%;
+position: relative;
+color:white;
+font-weight: bold;
+font-size: 24px;
+}
+
+.txt-2{
+    display: flex;
+    width: 513px;
+    height: 66px;
+    flex-direction: column;
+    bottom:-37%;
+    left:8%;
+    position: relative;
+    color:white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.btn{
+    width: 276px;
+height: 54px;
+flex-shrink: 0;
+border-radius: 30px;
+background: #436935;
+bottom:-37%;
+left:8%;
+position: relative;
+}
+
+.ab_me
+{
+    width:100vw;
+    height:100vh;
+    background: black;
+    overflow: hidden;
+    position:relative;
+    display: flex;
+}
+
+.img-2{
+background: #000 cover no-repeat;
+align-self: start;
+position: relative;
+width:1000%;
+
+
+}
+
+.txt-3{
+
+width: 306px;
+height: 90.283px;
+flex-direction: column;
+flex-shrink: 0;
+color:white;
+left:2%;
+bottom:-9%;
+position:relative;
+color: #66B36A;
+font-size: 36px;
+font-family: Irish Grover;
+}
+.txt-4{
+display: inline;
+width: 384px;
+height: 90.283px;
+flex-direction: column;
+flex-shrink: 0;
+color:white;
+left:-18%;
+bottom:-18%;
+position:relative;
+font-size: 32px;
+font-family: Irish Grover;
+}
+.check{
+    color:green;
+    
+}
+.lorem{
+    float:right;
+    color:white;
+    bottom:-40%;
+    left:-40%;
+    width:384px;
+    position: relative;
+}
+
+.sec-3{
+    background: black;
+    width: 100vw;
+    height:100vh;
+    position:relative;
+}
+
+.txt-5{
+    color:green;
+    font-size:29px;
+    left:48%;
+    bottom:-7%;
+    position:relative;
+}
+
+.rec-1
+{
+    width: 284.831px;
+height: 233px;
+flex-shrink: 0;
+position:relative;
+left:0%;
+bottom:0%;
+}
